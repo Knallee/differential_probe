@@ -1,0 +1,15 @@
+hardware/diff_probe/Project Logs for differential_probe
+hardware/diff_probe/Project Outputs for differential_probe
+hardware/diff_probe/History
+hardware/diff_probe/__Previews
+!*.SchDoc
+!*.PcbDoc
+!*.SchLib
+!*.PcbLib
+!*.OutJob
+!*.pdf
+!*.PrjPcb
+
+*.html
+*.txt
+*.PrjPcbStructure
