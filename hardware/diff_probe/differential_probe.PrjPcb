@@ -150,6 +150,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document7]
+DocumentPath=gerber.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for differential_probe\Design Rule Check - diff_probe.html
 DItemRevisionGUID=
@@ -171,27 +188,75 @@ DocumentPath=Project Outputs for differential_probe\Gerber\differential_probe.EX
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for differential_probe\Gerber\differential_probe.GKO
+DocumentPath=Project Outputs for differential_probe\GerberX2\differential_probe.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for differential_probe\Gerber\differential_probe.GTL
+DocumentPath=Project Outputs for differential_probe\Gerber\differential_probe.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for differential_probe\NC Drill\differential_probe.LDP
+DocumentPath=Project Outputs for differential_probe\Gerber\differential_probe.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for differential_probe\Gerber\differential_probe.REP
+DocumentPath=Project Outputs for differential_probe\Gerber\differential_probe.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for differential_probe\Gerber\differential_probe.RUL
+DocumentPath=Project Outputs for differential_probe\Gerber\differential_probe.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
+DocumentPath=Project Outputs for differential_probe\NC Drill\differential_probe.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for differential_probe\GerberX2\differential_probe.REP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for differential_probe\Gerber\differential_probe.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for differential_probe\GerberX2\differential_probe.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
 DocumentPath=Project Outputs for differential_probe\NC Drill\differential_probe.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for differential_probe\GerberX2\differential_probe_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for differential_probe\GerberX2\differential_probe_Copper_Signal_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for differential_probe\GerberX2\differential_probe_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for differential_probe\GerberX2\differential_probe_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for differential_probe\GerberX2\differential_probe_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for differential_probe\GerberX2\differential_probe_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for differential_probe\GerberX2\differential_probe_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for differential_probe\GerberX2\differential_probe_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [Configuration1]
